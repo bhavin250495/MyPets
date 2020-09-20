@@ -1,0 +1,6 @@
+
+interface calculation {
+	func add()
+	func sub()
+	func mul()
+}
